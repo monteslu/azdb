@@ -6,7 +6,7 @@
     <groupId>com.azprogrammer.azdb</groupId>
     <artifactId>azdb</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>azdb</name>
     <dependencies>
         <dependency>
